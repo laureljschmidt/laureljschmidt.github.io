@@ -6,3 +6,5 @@ I am a PhD student in the UConn EEB department interested in plant-fungal intera
 [My CV](PDFs/cv.pdf)
 
 [Contact Info](contact-info.html) 
+
+[UConn EEB](https://eeb.uconn.edu/) 
