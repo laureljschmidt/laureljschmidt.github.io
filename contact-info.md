@@ -2,12 +2,13 @@
 title: Contact Info
 layout: default
 ---
+![Image of mountain](images/mountains.jpeg "Grand Tetons")
 
 Feel free to contact me at laurel.schmidt@uconn.edu.
 
 Postal address: 
 
-Laurel Schmidt 
+    Laurel Schmidt 
     Department of Ecology and Evolutionary Biology 
     University of Connecticut 
     Storrs, CT 06269-3043
