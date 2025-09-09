@@ -3,6 +3,9 @@
 ## About Me
 I am a PhD student in the UConn EEB department interested in plant-fungal interactions.
 
+## Research
+
+## Links
 [My CV](PDFs/cv.pdf)
 
 [Contact Info](contact-info.html) 
