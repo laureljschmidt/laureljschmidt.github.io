@@ -4,4 +4,6 @@ layout: default
 ---
 
 Barro Colorado Island, Panama
-![Image of Laurel Schmidt](images/headshot.jpg "REPLACE_WITH_SHORT_DESCRIPTION")
+
+![Image of frog](images/frog.jpeg "Red eyed tree frog")
+![Image of mushroom](images/mushrooms.jpeg "Leucocoprinus mushroom")
