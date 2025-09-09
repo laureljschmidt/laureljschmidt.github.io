@@ -2,3 +2,7 @@ theme: jekyll-theme-minima
 title: Laurel Schmidt
 description: Ecology PhD Student
 
+
+header_pages:
+- contact-info.md
+
